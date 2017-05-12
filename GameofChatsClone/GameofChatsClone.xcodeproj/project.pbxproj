@@ -10,6 +10,7 @@
 		61A9E750D119A5872123174E /* Pods_GameofChatsClone.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B1A527B3F9D584D76AB8BA28 /* Pods_GameofChatsClone.framework */; };
 		760A59581E66B3B500BD45EF /* ChatLogTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 760A59571E66B3B500BD45EF /* ChatLogTableViewController.swift */; };
 		760B52D71E6E8EB800FE03CE /* ChatsMessageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 760B52D61E6E8EB800FE03CE /* ChatsMessageCollectionViewCell.swift */; };
+		76152C981EC5A47F00A2D04B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 76152C971EC5A47F00A2D04B /* GoogleService-Info.plist */; };
 		766AFB741E6D30C800333601 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766AFB731E6D30C800333601 /* Message.swift */; };
 		766AFB771E6D441B00333601 /* NewMessageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766AFB761E6D441B00333601 /* NewMessageTableViewCell.swift */; };
 		767968C51E715C170060236D /* ChatinputContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 767968C41E715C170060236D /* ChatinputContainerView.swift */; };
@@ -20,7 +21,6 @@
 		76BD4DF81E5C035A004EC5F6 /* LogoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76BD4DF71E5C035A004EC5F6 /* LogoutViewController.swift */; };
 		76E5479F1E5ED39200D22491 /* LoginViewController+handlers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E5479E1E5ED39200D22491 /* LoginViewController+handlers.swift */; };
 		76E547A21E5EEB4600D22491 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E547A11E5EEB4600D22491 /* Extension.swift */; };
-		76FD07F31E5D4D4D00AE7253 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 76FD07F21E5D4D4D00AE7253 /* GoogleService-Info.plist */; };
 		76FD07F51E5D875B00AE7253 /* NewMessageTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76FD07F41E5D875B00AE7253 /* NewMessageTableViewController.swift */; };
 		76FD07F81E5D8F8100AE7253 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76FD07F71E5D8F8100AE7253 /* User.swift */; };
 /* End PBXBuildFile section */
@@ -29,6 +29,7 @@
 		3BE4CB1B8080C0B8597B88FF /* Pods-GameofChatsClone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GameofChatsClone.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GameofChatsClone/Pods-GameofChatsClone.debug.xcconfig"; sourceTree = "<group>"; };
 		760A59571E66B3B500BD45EF /* ChatLogTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatLogTableViewController.swift; sourceTree = "<group>"; };
 		760B52D61E6E8EB800FE03CE /* ChatsMessageCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatsMessageCollectionViewCell.swift; sourceTree = "<group>"; };
+		76152C971EC5A47F00A2D04B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		766AFB731E6D30C800333601 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		766AFB761E6D441B00333601 /* NewMessageTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewMessageTableViewCell.swift; sourceTree = "<group>"; };
 		767968C41E715C170060236D /* ChatinputContainerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatinputContainerView.swift; sourceTree = "<group>"; };
@@ -41,7 +42,6 @@
 		76BD4DF71E5C035A004EC5F6 /* LogoutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogoutViewController.swift; sourceTree = "<group>"; };
 		76E5479E1E5ED39200D22491 /* LoginViewController+handlers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LoginViewController+handlers.swift"; sourceTree = "<group>"; };
 		76E547A11E5EEB4600D22491 /* Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
-		76FD07F21E5D4D4D00AE7253 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		76FD07F41E5D875B00AE7253 /* NewMessageTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewMessageTableViewController.swift; sourceTree = "<group>"; };
 		76FD07F71E5D8F8100AE7253 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		AD69E3EE85D278695ADF6105 /* Pods-GameofChatsClone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GameofChatsClone.release.xcconfig"; path = "Pods/Target Support Files/Pods-GameofChatsClone/Pods-GameofChatsClone.release.xcconfig"; sourceTree = "<group>"; };
@@ -107,7 +107,7 @@
 				76BD4DEA1E5C00C4004EC5F6 /* Assets.xcassets */,
 				76BD4DEC1E5C00C4004EC5F6 /* LaunchScreen.storyboard */,
 				76BD4DEF1E5C00C4004EC5F6 /* Info.plist */,
-				76FD07F21E5D4D4D00AE7253 /* GoogleService-Info.plist */,
+				76152C971EC5A47F00A2D04B /* GoogleService-Info.plist */,
 			);
 			path = GameofChatsClone;
 			sourceTree = "<group>";
@@ -214,8 +214,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				76BD4DEE1E5C00C4004EC5F6 /* LaunchScreen.storyboard in Resources */,
+				76152C981EC5A47F00A2D04B /* GoogleService-Info.plist in Resources */,
 				76BD4DEB1E5C00C4004EC5F6 /* Assets.xcassets in Resources */,
-				76FD07F31E5D4D4D00AE7253 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
